@@ -21,7 +21,9 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+#
+# To Serialize json object faster than Active Model Serialize
+gem 'fast_jsonapi'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

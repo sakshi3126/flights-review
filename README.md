@@ -13,10 +13,10 @@ This app is intended to be a simple example of a CRUD app built with **Ruby on R
 
 Some of the features of this app include:
 
-* Ruby version: `2.6.5`
-* Rails version: `6.0.1`
+* Ruby version: `2.5.3`
+* Rails version: `6.0.3`
 * Database: `postgresql`
-* React version: `16.12.0`
+* React version: `16.13.1`
 * React Hooks API
 * React Context API
 
